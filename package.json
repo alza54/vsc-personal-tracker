@@ -2,7 +2,7 @@
   "publisher": "vsc-personal-tracker",
   "name": "personal-tracker",
   "displayName": "Easy Personal Tracker",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": true,
   "packageManager": "pnpm@8.15.4",
   "description": "Visual Studio Code personal addon created to help me tracking my work progresses",
