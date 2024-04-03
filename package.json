@@ -2,7 +2,7 @@
   "publisher": "vsc-personal-tracker",
   "name": "personal-tracker",
   "displayName": "Easy Personal Tracker",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "packageManager": "pnpm@8.15.4",
   "description": "Visual Studio Code personal addon created to help me tracking my work progresses",
@@ -48,6 +48,8 @@
   "devDependencies": {
     "@types/node": "^20.9.0",
     "@types/vscode": "^1.84.1",
+    "@typescript-eslint/eslint-plugin": "^7.3.1",
+    "@typescript-eslint/parser": "^7.3.1",
     "@vscode/vsce": "^2.22.0",
     "bumpp": "^9.2.0",
     "eslint": "^8.57.0",
